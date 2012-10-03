@@ -5,7 +5,7 @@ A JQuery plugin for creating an image gallery with popup information on hover (s
 
 See examples/jsquares2.html for more details.
 
-![](examples/screenshots.jpg) 
+![](https://github.com/rmeschian/jsquares2/blob/master/examples/screenshot.jpg) 
 
 Examples
 ========
