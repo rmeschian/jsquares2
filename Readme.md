@@ -1,10 +1,11 @@
 Introduction
 ============
 
-A simple image gallery with popup information on hover (similar to ted.com)
+A JQuery plugin for creating an image gallery with popup information on hover (similar to ted.com)
 
 See examples/jsquares2.html for more details.
 
+![](examples/screenshots.jpg) 
 
 Examples
 ========
