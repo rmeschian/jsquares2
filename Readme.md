@@ -7,24 +7,15 @@ See examples/jsquares2.html for more details.
 
 ![](https://raw.github.com/rmeschian/jsquares2/master/examples/screenshot.jpg) 
 
-Examples
-========
-
-For examples look in the examples/ directory.
-
-Documentation
-=============
-
 Credits
 =======
 
-This is a fork of JSquares - http://boedesign.com/blog/2009/10/22/jsquares-for-jquery/
+This is a fork of JSquares by Jordan Boesch - http://boedesign.com/blog/2009/10/22/jsquares-for-jquery/
 
 Contributors
 ============
 
-Rouben Meschian - creator of JSquares2
-Jordan Boesch   - creator of JSquares
+Rouben Meschian (JSquares2) and Jordan Boesch (JSquares)
 
 License
 =======
