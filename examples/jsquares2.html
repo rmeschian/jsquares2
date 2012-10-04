@@ -10,14 +10,12 @@
 
 <!-- js -->
 <script src="../js/jquery-1.8.2.min.js" type="text/javascript"></script>
-<script src="../js/jsquayres2-1.0.min.js" type="text/javascript"></script>
+<script src="../js/jsquares2-1.0.min.js" type="text/javascript"></script>
 
 <script type="text/javascript">
 	$(document).ready(function() {
 		$('#js-container').jsquares2();
-		$('#js-container-2').jsquares2({caption_animate: false, 
-									    caption_width: 500, 
-									    caption_img_height: 160});
+		$('#js-container-2').jsquares2({ caption_width: 460 });
 	});
 </script>
 
@@ -43,7 +41,7 @@ body {
 	<hr/>
 	
 	<h2>Example 1 (default)</h2>
-	<pre>$('#js-container').jsquares2();</pre>
+	<pre>$('#js-container').jsquares2({caption_animate_easing: 'easeOutBack', caption_animate_time: 300});</pre>
 	
 	<div id="js-container">
 
@@ -422,7 +420,7 @@ body {
 	<hr/>
 	
 	<h2>Example 2</h2>
-	<pre>$('#js-container-2').jsquares2({caption_animate: false, caption_width: 500, caption_img_height: 160});</pre>
+	<pre>$('#js-container-2').jsquares2({caption_animate_easing: 'easeOutBack', caption_animate_time: 300, caption_width: 460, caption_img_height: 160});</pre>
 	
 	<div id="js-container-2" class='js-container-2c'>
 	
