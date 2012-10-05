@@ -111,7 +111,7 @@
     				curCaptionOverlay = isLeft ?
     				    $("<div style='height: "+newImgHeight+"px'><div style='position: relative'>            <div style='position: absolute; top: 0; left: 0; line-height: 0'><img src='" + capImg + "' style='width: "+newImgWidth+"px' /></div>                   <div class='jsquares2CaptionTxt' style='display: none; position: absolute; top: 0; right: 0; left: "+(newImgWidth+10)+"px'>"+capTxt+"</div>                   </div></div>")
     				    :
-    				    $("<div style='height: "+newImgHeight+"px'><div style='position: relative'>  <div class='jsquares2CaptionTxt' style='display: none; position: absolute; top: 0; left: 0; right: "+(newImgWidth+4)+"px'>"+capTxt+"</div> <div style='position: absolute; top: 0; right: 0; line-height: 0'><img src='" + capImg + "' style='width: "+newImgWidth+"px' /></div>       </div></div>");
+    				    $("<div style='height: "+newImgHeight+"px'><div style='position: relative'>  <div class='jsquares2CaptionTxt' style='display: none; position: absolute; top: 0; left: 0; right: "+(newImgWidth+10)+"px'>"+capTxt+"</div> <div style='position: absolute; top: 0; right: 0; line-height: 0'><img src='" + capImg + "' style='width: "+newImgWidth+"px' /></div>       </div></div>");
     				
     				curCaptionOverlay.js2T 	= that;
     				
