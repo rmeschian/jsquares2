@@ -7,6 +7,11 @@ See examples/jsquares2.html for more details.
 
 ![](https://raw.github.com/rmeschian/jsquares2/master/examples/screenshot.jpg) 
 
+Sites Using JSquares2
+=====================
+
+![http://www.sistemaarmenia.com/values](https://raw.github.com/rmeschian/jsquares2/master/examples/screenshot2.jpg) 
+
 Credits
 =======
 
