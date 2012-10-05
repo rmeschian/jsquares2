@@ -12,6 +12,8 @@ Sites Using JSquares2
 
 ![http://www.sistemaarmenia.com/values](https://raw.github.com/rmeschian/jsquares2/master/examples/screenshot2.jpg) 
 
+http://www.sistemaarmenia.com/values
+
 Credits
 =======
 
